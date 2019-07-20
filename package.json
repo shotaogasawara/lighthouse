@@ -1,0 +1,9 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lighthouse": "^5.1.0"
+  }
+}
